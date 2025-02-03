@@ -2,6 +2,7 @@
 
 This project demonstrates a **binary search algorithm** written in **8085 Assembly**.  
 ![Memory Initialization](download.jpeg)
+
 The code initializes memory with values from `0` to `7`, then searches for a specified value using binary search.
 
 ## 📌 Features
